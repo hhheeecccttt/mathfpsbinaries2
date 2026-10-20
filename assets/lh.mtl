@@ -1,0 +1,83 @@
+# Blender 4.4.0 MTL File: 'leihengsword.blend'
+# www.blender.org
+
+newmtl Brass.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/brass_basecolor.jpg
+map_Ks C:/brass_specular.jpg
+map_refl C:/brass_metallic.jpg
+map_Bump -bm 1.000000 C:/brass_normal_opengl.jpg
+
+newmtl Cherry_Red_Scratched_Painted_Steel
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/painted_steel_scratched_27_color.jpg
+map_Ns C:/painted_steel_scratched_27_roughness.jpg
+map_refl C:/painted_steel_scratched_27_metallic.jpg
+map_Bump -bm 1.000000 C:/painted_steel_scratched_27_normal.jpg
+
+newmtl Dark_iron
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 0.400000 C:/tiled_plane_DefaultMaterial_Normal.jpg
+
+newmtl Floral_Engraved_Gold
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Floral Engraved Gold_BaseColor.jpg
+map_Ns C:/Floral Engraved Gold_Roughness.jpg
+map_refl C:/Floral Engraved Gold_Metallic.jpg
+map_Bump -bm 1.000000 C:/Floral Engraved Gold_Normal.jpg
+
+newmtl Geometric_Brass_Engraved_Pattern
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Geometric Brass Engraved Pattern_BaseColor.jpg
+map_Ns C:/Geometric Brass Engraved Pattern_Roughness.jpg
+map_refl C:/Geometric Brass Engraved Pattern_Metallic.jpg
+map_Bump -bm 1.500000 C:/Geometric Brass Engraved Pattern_Normal.jpg
+
+newmtl Leather_red
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/plane_divided_DefaultMaterial_BaseColor.jpg
+map_Ns C:/plane_divided_DefaultMaterial_Roughness.jpg
+map_Bump -bm 1.000000 C:/plane_divided_DefaultMaterial_Normal.jpg
+
+newmtl leihengblade
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/yulia/Downloads/leihengbladetexture.png
+map_Ks C:/Users/yulia/Downloads/leihengbladetexture.png
+map_refl C:/Users/yulia/Downloads/leihengbladetexture.png
